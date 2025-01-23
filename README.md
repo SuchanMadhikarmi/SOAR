@@ -1,4 +1,4 @@
-<h1>SOAR Automation/h1>
+<h1>SOAR Automation</h1>
 
 
 
@@ -67,7 +67,12 @@ This project demonstrates the integration of Security Orchestration, Automation,
   <br/>
 <img src="https://i.imgur.com/KGkiCEX.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+
+<h2>Outcomes:</h2>
+     - Integrated the VirusTotal API in Shuffle.<br/>
+     - Gained experience with SOAR platforms and their integration.<br/>
+     - Demonstrated the practical application of Wazuh, Shuffle, VirusTotal, and TheHive in cybersecurity operations.<br/>
+
 
 </p>
 
