@@ -1,9 +1,9 @@
-<h1>SOAR Automation</h1>
+<h1>SOC Automation</h1>
 
 
 
 <h2>Description</h2>
-This project demonstrates the integration of Security Orchestration, Automation, and Response (SOAR) components to automate incident detection, analysis, and response workflows. The setup showcases how Wazuh, Shuffle, VirusTotal, and TheHive work together to handle security events efficiently.
+This project demonstrates the integration of  Security Operations Center (SOC) components to automate incident detection, analysis, and response workflows. The setup showcases how Wazuh, Shuffle, VirusTotal, and TheHive work together to handle security events efficiently.
 <br />
 
 <h2>Objectives</h2>
@@ -70,7 +70,7 @@ This project demonstrates the integration of Security Orchestration, Automation,
 
 <h2>Outcomes:</h2>
      - Integrated the VirusTotal API in Shuffle.<br/>
-     - Gained experience with SOAR platforms and their integration.<br/>
+     - Gained experience with SOC platforms and their integration.<br/>
      - Demonstrated the practical application of Wazuh, Shuffle, VirusTotal, and TheHive in cybersecurity operations.<br/>
 
 
